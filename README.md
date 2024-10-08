@@ -16,8 +16,16 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+Phone number validation involves checking the input string against a set of rules. We'll
+implement a basic validation logic using Finite State Machine (FSM) and digital electronics
+concepts:
+1. Finite State Machine (FSM): FSM is a digital circuit that can be in one of a finite number of
+states.
+2. Moore Machine: A Moore machine is a type of FSM where the output depends only on the
+current state.
+3. Mealy Machine: A Mealy machine is a type of FSM where the output depends on both the
+current state and input.
 
-**Logic Diagram**
 
 **Procedure**
 
